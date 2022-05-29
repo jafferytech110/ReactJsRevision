@@ -1,0 +1,14 @@
+A Js library for building user interfaces
+a client side library not framework
+Netflix uses React for Frontend 
+no need to request new page again and again instead DOM components keep undated by React
+It is a declarative, component focused approach
+
+
+making component responsive means to receive and send data 
+    it is called properties like that of in function passing arguments and receving as parameters in function(props)
+
+Event HAndling with state changing
+    with attribute to the element on which event gonna happen. onClick is the attribute like onClick = {either inline function
+    or imported function}
+    for this use useState() which is inbuilt state hook
